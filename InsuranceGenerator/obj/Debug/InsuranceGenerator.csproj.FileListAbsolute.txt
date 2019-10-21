@@ -1,0 +1,6 @@
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\bin\Debug\InsuranceGenerator.exe.config
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\bin\Debug\InsuranceGenerator.exe
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\bin\Debug\InsuranceGenerator.pdb
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\obj\Debug\InsuranceGenerator.csprojAssemblyReference.cache
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\obj\Debug\InsuranceGenerator.exe
+C:\Development\Playground\Futuregrowth\InsuranceGenerator\InsuranceGenerator\InsuranceGenerator\obj\Debug\InsuranceGenerator.pdb
